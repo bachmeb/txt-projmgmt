@@ -1,0 +1,6 @@
+title (read, update)
+description (read, update)
+author (read, update)
+priority (read, update)
+cost (read, update)
+objective (read, update)
