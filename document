@@ -1,6 +1,8 @@
-title (read, update)
-description (read, update)
-author (read, update)
-priority (read, update)
-cost (read, update)
-objective (read, update)
+Document takes an idea from Solicit and formalizes it. 
+
+title (create)
+description (create)
+author (copy from solicit)
+priority (create)
+cost (create - this can only be a rough estimate at this point)
+objective (create - this is cross-referenced with the group objectives/mission list)
