@@ -1,6 +1,12 @@
-title
-description
+Solicit is disorganized. Solicit is a chance to say, "I think it would be good to do this." 
+
+Solicit looks for the formal details that are required in Document, but it does not require them.
+
+Solicit should just have a field for idea.
+
+
 author
-priority
-cost
-objective
+idea
+why
+
+This matches the format of the Agile user stories. As a <role> I want to <idea> so that <why>.
