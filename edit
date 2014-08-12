@@ -4,3 +4,4 @@ author (read, update)
 priority (read, update)
 cost (read, update)
 objective (read, update)
+status (read, update) [new, approved, go, completed, closed]
